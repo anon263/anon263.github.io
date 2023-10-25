@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+  .body {
+  background-image: url('https://i.pinimg.com/originals/1e/64/c3/1e64c3289a248160c26a3b57b221e282.png');
+  z-index: 1;
+  }
+        .text {
+            background-color: white;
+            border: solid;
+            border-color: darkblue;
+            color: darkblue;
+            height: 700px;
+            width: 600px;
+            margin-left: 410px;
+            margin-top: 150px;
+            margin-bottom: 150px;
+            border-width: 3px;
+            padding: 50px;
+            font-size: 20px;
+        }
+    
+    </style>
+    
+</head>
+
+<body class = 'body'>
+<div class = "text">
+    <p>
+   anon: look at us ... nestled into this corner of the internet x3 <br><br> <! -- *nuzzles u* -- > explore what exists of this website. if you're a web developer please help; or if you want to publish your manifesto, or if you would like to write back and forth, how friends do: <br> <br> sheep226633@gmail.com 
+   
+   
+    <a = href ''>
+       <br> <br>  about 2
+    </a>   
+    </p>
+    </div>
+</body>
+
+</html>
